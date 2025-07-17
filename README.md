@@ -41,9 +41,10 @@
 ---
 
 ### 📊 GitHub Stats & Streaks
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksinghs318&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksinghs318&layout=compact&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sksinghs318&theme=github-dark)
+![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhsingh223&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh223&layout=compact&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh223&theme=github-dark)
+
 
 ---
 
